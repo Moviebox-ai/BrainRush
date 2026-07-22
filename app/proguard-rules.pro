@@ -1,0 +1,2 @@
+-keep class com.aaryo.brainrush.** { *; }
+-keep class com.google.firebase.** { *; }
